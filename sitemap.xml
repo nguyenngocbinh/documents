@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nguyenngocbinh.github.io/documents/learning-more.html</loc>
-    <lastmod>2023-07-11T05:25:56.532Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nguyenngocbinh.github.io/documents/quarto-workflows/jupyter.html</loc>
-    <lastmod>2023-07-11T05:25:55.436Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nguyenngocbinh.github.io/documents/quarto-workflows/rstudio.html</loc>
-    <lastmod>2023-07-11T05:25:54.224Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nguyenngocbinh.github.io/documents/transition-from-rmarkdown.html</loc>
-    <lastmod>2023-07-11T05:25:53.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nguyenngocbinh.github.io/documents/index.html</loc>
-    <lastmod>2023-07-11T05:25:50.604Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nguyenngocbinh.github.io/documents/quarto-workflows/index.html</loc>
-    <lastmod>2023-07-11T05:25:53.616Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nguyenngocbinh.github.io/documents/quarto-workflows/browser.html</loc>
-    <lastmod>2023-07-11T05:25:54.708Z</lastmod>
+    <lastmod>2023-07-12T02:31:29.840Z</lastmod>
   </url>
   <url>
     <loc>https://nguyenngocbinh.github.io/documents/explore.html</loc>
-    <lastmod>2023-07-11T05:25:56.124Z</lastmod>
+    <lastmod>2023-07-12T02:31:28.128Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nguyenngocbinh.github.io/documents/quarto-workflows/browser.html</loc>
+    <lastmod>2023-07-12T02:31:26.484Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nguyenngocbinh.github.io/documents/quarto-workflows/index.html</loc>
+    <lastmod>2023-07-12T02:31:25.268Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nguyenngocbinh.github.io/documents/index.html</loc>
+    <lastmod>2023-07-12T02:31:22.036Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nguyenngocbinh.github.io/documents/transition-from-rmarkdown.html</loc>
+    <lastmod>2023-07-12T02:31:24.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nguyenngocbinh.github.io/documents/quarto-workflows/rstudio.html</loc>
+    <lastmod>2023-07-12T02:31:25.968Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nguyenngocbinh.github.io/documents/quarto-workflows/jupyter.html</loc>
+    <lastmod>2023-07-12T02:31:27.296Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nguyenngocbinh.github.io/documents/machine-learning/transformer.html</loc>
+    <lastmod>2023-07-12T02:31:29.404Z</lastmod>
   </url>
 </urlset>
